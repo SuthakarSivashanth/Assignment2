@@ -1,1 +1,2 @@
 Added file2.txt
+This is edited from branch1
