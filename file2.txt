@@ -1,2 +1,2 @@
-Added file2.txt
+This is a new file
 This is edited from branch1
